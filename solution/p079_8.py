@@ -1,0 +1,1 @@
+print(find_shortest_passcode('keylog.txt'))

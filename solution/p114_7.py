@@ -1,0 +1,1 @@
+print(ways_to_fill_row(50))

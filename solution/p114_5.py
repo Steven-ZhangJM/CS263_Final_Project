@@ -1,0 +1,1 @@
+print(calculate_ways(50))

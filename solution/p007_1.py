@@ -1,0 +1,1 @@
+print(nth_prime(10001))

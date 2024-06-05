@@ -1,0 +1,1 @@
+print(num_ways_to_tile(50))

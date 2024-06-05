@@ -1,0 +1,1 @@
+print(find_smallest_divisible(20))

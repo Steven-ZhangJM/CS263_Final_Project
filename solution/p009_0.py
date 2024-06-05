@@ -1,0 +1,1 @@
+print(find_pythagorean_triplet(1000))

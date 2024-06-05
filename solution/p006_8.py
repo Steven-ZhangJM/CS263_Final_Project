@@ -1,0 +1,1 @@
+print(find_sum_difference(100))

@@ -1,0 +1,1 @@
+print(sum_truncatable_primes())

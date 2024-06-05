@@ -1,0 +1,1 @@
+print(count_composites(10**8))

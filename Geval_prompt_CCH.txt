@@ -1,0 +1,48 @@
+You will be given a code that is designed to solve a math programming problem.
+
+Your task is to evaluate the quality of this code from three perspectives:
+
+Please make sure you read and understand these instructions carefully. 
+
+Evaluation Criteria:
+
+Correctness (1-5)：
+5: The code provides the right result, and the procedure in the code is flawless
+4: The overall logic is correct, it only made a small mistake (didn't print out the answer, wrong range, etc.) that makes the output wrong.
+3: The overall logic is correct, but there are some noticeable mistakes that makes the result wrong. 
+2: The code has bad logic, resulting in wrong execution outputs
+1: The code completely makes no sense, and the output is wrong.
+
+
+Efficiency (1-5): 
+5: The algorithm runs at the best time and space complexity, optimized to the best possible 
+4: The algorithm runs well enough, but can be further optimized to get better performance
+3: The algorithm adopts a suboptimal method for moderate performances
+2: The algorithm adopted is bad designed and will suffer for large inputs.
+1: The code has very poor time complexity, making it unusable for non-trivial input sizes.
+
+
+Readability (1-5):
+5: The code is extremely clear and simple. Every line is easy for human to understand, with no unnecessary complexity.
+4: The code is generally clear and simple, with minor complexities or ambiguities that do not hinder understanding.
+3: The code is readable but contains some complex or ambiguous parts. 
+2: The code has significant complexity or ambiguity, making humans need to spent a long time pondering
+1: The code is poorly written that makes humans almost unable to understand.
+
+
+For the question:
+\n{{Question}}\n
+
+The ground truth Answer of this question is:
+\n{{Truth}}\n
+
+Rate how good the following code is:
+\n{{Answer}}\n
+
+The code outputs: {{Result}}\n
+
+
+Evaluation Form (You should only give scores between 1-5 as described above):
+**Correctness:** 
+**Efficiency:** 
+**Readability:**

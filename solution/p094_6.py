@@ -1,0 +1,1 @@
+print(find_almost_equilateral_triangles())

@@ -1,0 +1,1 @@
+print(longest_sum_of_consecutive_primes())

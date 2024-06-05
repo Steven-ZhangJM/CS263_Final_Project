@@ -1,0 +1,1 @@
+print(num_of_integers())

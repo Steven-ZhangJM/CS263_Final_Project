@@ -1,0 +1,1 @@
+print(count_18_digit_numbers())

@@ -1,0 +1,1 @@
+print(sum_of_prime_factors(10**9))

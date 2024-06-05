@@ -1,0 +1,1 @@
+print(max_digital_sum())

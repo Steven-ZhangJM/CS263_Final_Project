@@ -1,0 +1,1 @@
+print(square_laminae(1000000))

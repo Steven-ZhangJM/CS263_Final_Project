@@ -1,0 +1,1 @@
+print(sum_of_primes(10**9))

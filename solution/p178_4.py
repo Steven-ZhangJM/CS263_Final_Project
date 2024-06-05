@@ -1,0 +1,1 @@
+print(pandigital_step_numbers(0))

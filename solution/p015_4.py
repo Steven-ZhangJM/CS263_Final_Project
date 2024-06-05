@@ -1,0 +1,1 @@
+print(calculate_routes(20))
